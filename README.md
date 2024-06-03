@@ -1,2 +1,2 @@
 # React-Portfolio
-Re-creating my Portfolio with React
+Re-creating my Portfolio with Vite + React
